@@ -1,0 +1,2 @@
+Before using these datasets, change the name of "Tweet Sentiment" to "train.csv" as it was the one uses in the notebook.
+In the editted Tweets ALL.CSV is the final Tweet Sentiment version as well but in the code I named it "ALL.CSV".
