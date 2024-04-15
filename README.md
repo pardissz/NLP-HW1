@@ -1,4 +1,4 @@
-# Natural-Language-Processing-HW1-Text-processing-
+# Natural-Language-Processing-HW1-Text-processing
 
 Sentiment Analysis on Text Data
 This project explores sentiment analysis techniques on two diverse datasets: 
